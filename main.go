@@ -1,3 +1,5 @@
+// Copyright (c) 2021 Quirino Gervacio
+
 package main
 
 import (
